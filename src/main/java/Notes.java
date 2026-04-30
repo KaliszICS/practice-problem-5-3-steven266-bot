@@ -1,30 +1,6 @@
 class Notes {
 	public static void main(String args[]) {
 
-		int a;
-		int b;
-		a = 5;
-		b = 10;
-
-		// a, b = b, a; DONT DO THIS
-
-		//create a temp variable
-		int temp; 
-		temp = a;
-		a = b;
-		b = temp;
-
-		int[] arr = {1, 3, 5, 7};
-
-		//swap the values at index 1 and 2
-
-		temp = arr[1];
-		arr[1] = arr[2];
-		arr[2] = temp;
-
-
-		//split
-
 		//add and delete to array
 		
 		//adding to an array
