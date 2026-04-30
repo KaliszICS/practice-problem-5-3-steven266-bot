@@ -34,7 +34,7 @@ class Notes {
 
 		//Removing an array
 
-		arr = new int[]{1, 5, 8, 2, 3, 4, 7};
+		int[] arr = new int[]{1, 5, 8, 2, 3, 4, 7};
 		int index = 2; //index of the element we want to remove
 
 		int index2 = 0;
